@@ -1,9 +1,11 @@
 # VoiceDairy
-VoiceDairy is a audio Journal application.  
 
-Technology Used: 
-1. Electron 
-2. React /NextJS
-3. Redux 
-4. Expo 
-5. React Native
+VoiceDairy is a audio Journal application.
+
+Technology Used:
+
+Electron
+React
+Redux
+Expo
+React Native
